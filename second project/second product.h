@@ -10,6 +10,7 @@
 #define second_product_h
 
 #include <stdio.h>
+
 int project2(void);
 
 #endif /* second_product_h */
